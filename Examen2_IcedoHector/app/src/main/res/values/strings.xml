@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Examen2_IcedoHector</string>
+    <string name="title">Alumnos de la clase</string>
+    <string name="name">Nombre</string>
+    <string name="lastname">Apellidos</string>
+    <string name="career">Carrera</string>
+    <string name="email">E-Mail</string>
+    <string name="save">Guardar</string>
+</resources>
